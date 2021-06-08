@@ -2,7 +2,7 @@
 
 ## git的一些操作指令
 
-![image-20210607160036607](C:\Users\szs\AppData\Roaming\Typora\typora-user-images\image-20210607160036607.png)
+![image-20210607160036607](.\git_test_file\test\withSSH\test\img\image-20210607160036607.png)
 
 ## 一、git本地仓库
 
